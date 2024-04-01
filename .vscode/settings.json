@@ -1,0 +1,6 @@
+{
+    "editor.guides.indentation": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "workbench.tree.indent": 5
+}
